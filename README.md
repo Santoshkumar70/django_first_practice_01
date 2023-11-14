@@ -1,0 +1,2 @@
+# django_first_practice_01
+Practice_001
